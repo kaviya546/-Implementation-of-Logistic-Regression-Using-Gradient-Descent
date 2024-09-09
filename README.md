@@ -112,12 +112,15 @@ print(y_prednew)
 
 ## Output:
 Accuracy:
+
 ![image](https://github.com/user-attachments/assets/054ce7d5-0036-4fc0-96d6-47087a873bcb)
 
 Y Prediction:
+
 ![image](https://github.com/user-attachments/assets/9a4c6081-d507-4777-b802-56c8218b3a6f)
 
 Xnew:
+
 ![image](https://github.com/user-attachments/assets/2ede8abf-9b46-4479-a27d-c6b86a6c0658)
 
 ## Result:
